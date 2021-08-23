@@ -1,0 +1,35 @@
+h1{
+  margin-left: 20px;
+}
+h2, h3, h4{
+  margin-left: 20px;
+}
+.col-size{
+    width: 50px;
+    padding: 50px;
+    background: black;
+    margin-left: 20px; 
+  
+}
+#circle {
+    height: 100px; 
+		width: 100px; 
+		background-color: black;
+		border: 5px solid rgba(0, 0, 0, 1);
+		border-radius: 100%; 
+    margin-left: 20px;
+  }
+.circle {
+    height: 100px; 
+		width: 100px; 
+		border: 5px solid green;
+		border-radius: 50%;
+    margin-left: 20px; 
+  }
+.col-form{
+    width: 80px;
+  height: 100px;
+  background-color: #000;
+  border-radius: 50% / 60% 60% 40% 40%;
+  margin-left: 20px;
+}
